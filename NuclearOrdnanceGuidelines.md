@@ -1,3 +1,5 @@
+# NOG - Nuclear Ordnance Guidelines
+
 1. **No Griefing with Nuclear Weapons**: Refer to Rule 1 of the primary ruleset.
 
 2. **Safety Precautions**: When using nuclear weapons, players must take safety precautions to minimize collateral damage. This may include setting up a safe distance from their own and other players' structures.
