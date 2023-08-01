@@ -10,5 +10,5 @@
       - **Intended Usage Scenarios**: Nuclear Testing, War
   - **Testing Areas**:
     - **Area 1**:
-      - **Size**: 64, 64, N/A
+      - **Size**: 70, 70, N/A
       - **Location**: 15414, -2660, 64
