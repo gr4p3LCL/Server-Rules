@@ -15,7 +15,7 @@
    - **Registering Testing Areas**: Players must register any designated nuclear weapons testing areas with the server operator. The registration process includes providing the following details:
 
       - **Exact Size of the Testing Area**: Players must specify the dimensions of the testing area, including its length, width, and height. If the height is indefinite, please indicate "N/A."
-      - **Location Coordinates**: The precise location coordinates (X, Y, Z) for the middle block/blocks of the testing area must be provided to ensure accurate identification
+      - **Location**: The precise coordinates (X, Y, Z) for the middle block/blocks of the testing area must be provided to ensure accurate identification
 
 7. **Nuclear Weapon Registration and Authorization**:
     - Players must apply for authorization to become owners of nuclear weapons.
