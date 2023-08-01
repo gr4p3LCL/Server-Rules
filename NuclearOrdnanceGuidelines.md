@@ -12,6 +12,10 @@
 
 6. **Designated Zones**: Players who wish to conduct nuclear testing must build and section off a designated area for these activities. This area should be situated away from player settlements and other significant structures to minimize the risk of unintentional damage. Clear signage indicating the testing zone is also recommended to avoid accidental intrusions.
    - **Note**: If nuclear testing is not conducted within a marked zone, the consequences will be judged on a case-by-case basis by the server operator.
+   - **Registering Testing Areas**: Players must register any designated nuclear weapons testing areas with the server operator. The registration process includes providing the following details:
+
+      - **Exact Size of the Testing Area**: Players must specify the dimensions of the testing area, including its length, width, and height. If the height is indefinite, please indicate "N/A."
+      - **Location Coordinates**: The precise location coordinates (X, Y, Z) for the middle block/blocks of the testing area must be provided to ensure accurate identification
 
 7. **Nuclear Weapon Registration and Authorization**:
     - Players must apply for authorization to become owners of nuclear weapons.
